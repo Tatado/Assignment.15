@@ -1,0 +1,20 @@
+1.
+60 * 60
+3600
+2.
+seconds_per_hour =3600
+3.
+seconds _per_hour *24 = 86400
+4.
+seconds _per_day = seconds _per _hour *24
+seconds _per_day = 86400
+5.
+seconds _per_day / seconds_per_hour =24.0
+6.
+yes agree
+seconds_per_day // seconds_per_hour = 24
+7.
+
+
+
+
